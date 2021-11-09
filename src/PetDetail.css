@@ -1,0 +1,18 @@
+.pet-details {
+  border: 2px solid #6b462e;
+  background: #ede0d4;
+  min-height: 300px;
+  max-width: 275px;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+.pet-name {
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+.info,
+.pet-age {
+  margin-top: 1em;
+}

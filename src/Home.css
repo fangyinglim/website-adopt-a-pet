@@ -1,0 +1,6 @@
+.body {
+  background: #e6ccb2;
+  background: url("./img/cat-staring.jpg");
+  background-size: cover;
+  height: 100vh;
+}

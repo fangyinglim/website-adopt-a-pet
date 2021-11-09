@@ -1,0 +1,40 @@
+.links {
+  list-style: none;
+}
+
+nav {
+  width: 100%;
+  min-height: 5vh;
+  background: #d8b28d;
+  position: relative;
+  border: 2px solid #b08968;
+}
+
+.title {
+  margin-left: 1em;
+}
+
+ul {
+  /* border: 2px solid red; */
+  display: flex;
+  list-style: none;
+  position: absolute;
+  right: 5%;
+  top: 5%;
+}
+
+li {
+  margin-left: 1em;
+  font-style: normal;
+  align-self: center;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
+}

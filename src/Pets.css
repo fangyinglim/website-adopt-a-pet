@@ -1,0 +1,10 @@
+.container-pets {
+  /* border: 2px solid black; */
+  margin-top: 5em;
+  width: 90%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 1em 1em;
+}
